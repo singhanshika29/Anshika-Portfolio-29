@@ -535,6 +535,7 @@
 
 .header-text {
     background-color: #E4F1DD;
+    width:100%;
 }
 
 .text-header h4 {
@@ -959,4 +960,5 @@
         height: auto!important;
 }
 }
+
 
