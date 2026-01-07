@@ -950,4 +950,12 @@
     border-radius: 4px;
     font-size: 0.85rem;
     transform: 20s;
+
+}
+@media (min-width: 467px) {
+    
+    .image-anshika img {
+        width: 90%!important;
+        height: auto!important;
+}
 }
